@@ -6,6 +6,9 @@ h1{
     text-align: center;
     font-style: italic;
 }
+h2{
+    color: blue;
+}
 p{
     text-align: left;
 }
